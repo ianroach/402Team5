@@ -20,3 +20,9 @@
 {"team id": 5, "Measurement": "farenheit", "Date": "12-04-2017", "Time": "14:03", "temperature": 55.53, "pi id": 2}
 {"team id": 5, "Measurement": "farenheit", "Date": "12-04-2017", "Time": "14:03", "temperature": 57.71, "pi id": 2}
 {"team id": 5, "Measurement": "farenheit", "Date": "12-04-2017", "Time": "14:03", "temperature": 69.56, "pi id": 2}
+{"temperature": 62.13, "Measurement": "farenheit", "Date": "12-04-2017", "Time": "16:19", "pi id": 2, "team id": 5}
+{"temperature": 50.45, "Measurement": "farenheit", "Date": "12-04-2017", "Time": "16:19", "pi id": 2, "team id": 5}
+{"temperature": 51.05, "Measurement": "farenheit", "Date": "12-04-2017", "Time": "16:19", "pi id": 2, "team id": 5}
+{"temperature": 52.34, "Measurement": "farenheit", "Date": "12-04-2017", "Time": "16:19", "pi id": 2, "team id": 5}
+{"temperature": 63.17, "Measurement": "farenheit", "Date": "12-04-2017", "Time": "16:19", "pi id": 2, "team id": 5}
+{"temperature": 54.13, "Measurement": "farenheit", "Date": "12-04-2017", "Time": "16:19", "pi id": 2, "team id": 5}

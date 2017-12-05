@@ -12,13 +12,19 @@ def HubReceive():
 			json_dict = request.get_json()
 		
 			tempAmount = json_dict['temperature']
+			humidityAmount = json_dict['humidity']
+			soundStatus = json_dict['sound']
+			lightStatus = json_dict['light']
 			piId = json_dict['pi id']
 			teamId = json_dict['team id']
 			currentTime = json_dict['currentTime']
 			currentDate = json_dict['currentDate']
 			measurement = json_dict['Measurement']
 		
-			data = {'temperature': tempAmount, 'pi id': piId, 'team id': teamId, 'Time': currentTime, 'Date': currentDate, 'Measurement': measurement}
+			if piId == 2:
+				data = {'temperature': tempAmount, 'pi id': piId, 'team id': teamId, 'Time': currentTime, 'Date': currentDate, 'Measurement': measurement}
+			else if piId == 5:
+				data = {'humidity': humidityAmount, 'pi id': piId, 'team id': teamId, 'Time': currentTime, 'Date': currentDate, 'Measurement': measurement}
 			print(data)
 			with open('data.txt', 'a') as outfile:
 				json.dump(data, outfile)
