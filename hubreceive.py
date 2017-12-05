@@ -11,10 +11,10 @@ def HubReceive():
 		if request.method == "POST":
 			json_dict = request.get_json()
 		
-			tempAmount = json_dict['temperature']
-			humidityAmount = json_dict['humidity']
-			soundStatus = json_dict['sound']
-			lightStatus = json_dict['light']
+			#tempAmount = json_dict['temperature']
+			#humidityAmount = json_dict['humidity']
+			#soundStatus = json_dict['sound']
+			#lightStatus = json_dict['light']
 			piId = json_dict['pi id']
 			teamId = json_dict['team id']
 			currentTime = json_dict['currentTime']
@@ -22,9 +22,17 @@ def HubReceive():
 			measurement = json_dict['Measurement']
 		
 			if piId == 2:
+				tempAmount = json_dict['temperature']
 				data = {'temperature': tempAmount, 'pi id': piId, 'team id': teamId, 'Time': currentTime, 'Date': currentDate, 'Measurement': measurement}
-			else if piId == 5:
+			elif piId == 5:
+				humidityAmount = json_dict['humidity']
 				data = {'humidity': humidityAmount, 'pi id': piId, 'team id': teamId, 'Time': currentTime, 'Date': currentDate, 'Measurement': measurement}
+			elif piId == 3:
+				soundStatus = json_dict['sound']
+				data = {'sound': soundStatus, 'pi id': piId, 'team id': teamId, 'Time': currentTime, 'Date': currentDate, 'Measurement': measurement}
+			elif piId == 4:
+				lightStatus = json_dict['light']
+				data = {'light': lightStatus, 'pi id': piId, 'team id': teamId, 'Time': currentTime, 'Date': currentDate, 'Measurement': measurement}
 			print(data)
 			with open('data.txt', 'a') as outfile:
 				json.dump(data, outfile)

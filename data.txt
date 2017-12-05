@@ -26,3 +26,378 @@
 {"temperature": 52.34, "Measurement": "farenheit", "Date": "12-04-2017", "Time": "16:19", "pi id": 2, "team id": 5}
 {"temperature": 63.17, "Measurement": "farenheit", "Date": "12-04-2017", "Time": "16:19", "pi id": 2, "team id": 5}
 {"temperature": 54.13, "Measurement": "farenheit", "Date": "12-04-2017", "Time": "16:19", "pi id": 2, "team id": 5}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 56.62, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 64.76, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 55.94, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 64.4, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 58.03, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 55.57, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 51.53, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 50.77, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 54.54, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 53.41, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 68.64, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 60.08, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 69.7, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 57.21, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 61.14, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 60.96, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 56.33, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 51.54, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 69.88, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 64.21, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 50.25, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 68.31, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 67.28, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 61.41, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 61.89, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 65.81, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 54.81, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 52.13, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 65.83, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 56.62, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 64.28, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 54.19, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 56.19, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 55.27, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 52.38, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 59.58, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 62.76, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 50.62, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 66.44, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 54.93, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 69.36, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 59.12, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 52.02, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 52.04, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 50.51, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 54.61, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 52.69, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 62.53, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 56.27, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 52.94, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 53.9, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 53.37, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 67.08, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 63.64, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 62.37, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 56.39, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 55.16, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 59.64, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 51.51, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 53.01, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 58.33, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 53.4, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 56.98, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 69.0, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 60.36, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 69.74, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 59.48, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 53.79, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 67.71, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 58.93, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 58.2, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 54.88, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 55.6, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 52.67, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 58.72, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 65.17, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 50.63, "Measurement": "farenheit"}
+{"Date": "12-04-2017", "pi id": 2, "Time": "19:06", "team id": 5, "temperature": 59.67, "Measurement": "farenheit"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 51.78, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 60.03, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 65.6, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 50.85, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 56.34, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 55.22, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 63.31, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 57.18, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 53.37, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 54.17, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 51.52, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 62.93, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 54.77, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 50.29, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 69.89, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 59.24, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 66.9, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 53.33, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 65.3, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 62.45, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 55.3, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 55.09, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 69.43, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 56.81, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 64.91, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 53.69, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 66.36, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 62.68, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 52.27, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 61.49, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 58.07, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 59.47, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 50.69, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 59.16, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 66.9, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 50.77, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 69.29, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 51.09, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 55.96, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 69.5, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 62.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 59.2, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 52.83, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 60.07, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 65.37, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 62.02, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 60.34, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 57.09, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 62.26, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 58.1, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 58.45, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 68.91, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 56.33, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 61.09, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 55.2, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 54.36, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 60.05, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 60.4, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 64.52, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 67.75, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 67.79, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 60.33, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 50.09, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 57.46, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 67.31, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 55.19, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 66.7, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 56.91, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 60.55, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 57.4, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 69.89, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 58.64, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 57.05, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 63.18, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 55.1, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 53.86, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 52.57, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 68.92, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 63.17, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 56.55, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 53.08, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 54.25, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 61.04, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 60.8, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 64.14, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 58.58, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 67.49, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 62.5, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 63.51, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 53.61, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 59.91, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 57.54, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 69.67, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 50.76, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 50.79, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 63.86, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 53.5, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 58.58, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 56.96, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 52.55, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 68.91, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 60.96, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 65.04, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 68.03, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 69.32, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 64.54, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 58.12, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 59.29, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 59.23, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 52.72, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 69.55, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 58.65, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 59.81, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 64.52, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 56.16, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 56.91, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 52.58, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 66.9, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 52.97, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 66.28, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 66.49, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 62.34, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 58.9, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 61.56, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 55.89, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 66.33, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 54.11, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 64.84, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 59.89, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 68.83, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 61.69, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 61.39, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 65.75, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 69.41, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 59.63, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 67.33, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 51.61, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 69.77, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 63.28, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 53.2, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 68.51, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 68.87, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 57.89, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 55.28, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 68.13, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 67.78, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 64.13, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 55.29, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 53.86, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 58.41, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 66.46, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 62.41, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 65.25, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 51.3, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 58.86, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 59.61, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 56.31, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 64.85, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 57.23, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 62.08, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 67.08, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 68.03, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 66.14, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 59.62, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 66.92, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 60.24, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 62.02, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 64.45, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 50.28, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 64.33, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 58.37, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 64.5, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 58.99, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 66.62, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 50.44, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 67.73, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 51.3, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 68.3, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 63.26, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 56.44, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 66.5, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 66.06, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 54.5, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 69.7, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 61.72, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 62.51, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 66.43, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 67.56, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 53.75, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 68.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 68.79, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 59.74, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 56.46, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 58.82, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 66.74, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 66.59, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 60.42, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 57.37, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 53.43, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 66.6, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 64.35, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 55.03, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 59.15, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 68.19, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 50.89, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 65.69, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 50.48, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 63.31, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 51.13, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 69.51, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 65.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 69.78, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 67.04, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 51.18, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 54.94, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 64.05, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 55.84, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 67.53, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 62.81, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 60.75, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 57.68, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 60.59, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 57.86, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:06", "temperature": 59.97, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:24", "temperature": 55.78, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:24", "temperature": 57.24, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:24", "temperature": 57.78, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:24", "humidity": 61.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:24", "humidity": 40.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:24", "humidity": 64.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:24", "humidity": 88.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:24", "humidity": 78.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:24", "humidity": 8.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:24", "humidity": 14.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:24", "humidity": 59.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:24", "humidity": 91.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:24", "humidity": 90.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:24", "humidity": 11.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:24", "humidity": 55.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:24", "humidity": 40.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:24", "humidity": 10.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:24", "humidity": 20.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:24", "humidity": 43.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:24", "humidity": 15.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:24", "humidity": 5.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:24", "humidity": 41.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:24", "humidity": 5.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:24", "humidity": 48.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:24", "humidity": 76.0, "Date": "12-04-2017"}
+{"sound": false, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:25", "Date": "12-04-2017"}
+{"sound": true, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:25", "Date": "12-04-2017"}
+{"sound": false, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:25", "Date": "12-04-2017"}
+{"sound": false, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:25", "Date": "12-04-2017"}
+{"sound": false, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:25", "Date": "12-04-2017"}
+{"sound": true, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:25", "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:33", "temperature": 60.12, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:33", "temperature": 48.94, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:33", "temperature": 66.17, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:33", "temperature": 59.11, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 2, "Measurement": "farenheit", "Time": "19:33", "temperature": 44.62, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:33", "humidity": 34.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:33", "humidity": 38.0, "Date": "12-04-2017"}
+{"sound": true, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": true, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": false, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": false, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": false, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": true, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": true, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": true, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": true, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": false, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": false, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": false, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": false, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": true, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": true, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": false, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": true, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": false, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": true, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": true, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": false, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": false, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": false, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": true, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": true, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": true, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": true, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": true, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": true, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": true, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": false, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": false, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": false, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": true, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"sound": false, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
