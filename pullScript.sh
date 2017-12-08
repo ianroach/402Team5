@@ -1,5 +1,6 @@
 while :
 do
-git pull
-sleep 5
+	git pull
+	sleep 5
+done
 
