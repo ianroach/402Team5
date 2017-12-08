@@ -9,13 +9,13 @@ app = Flask(__name__)
 @app.route('/', methods=["POST"])
 def HubReceive():
 	
-	data = {}
-	data['data'] = []
+	with open('data.json') as json_data:
+		data = json.load(json_data)
 	
-
-	if request.method == "POST":
-		counter = input("how many data points do you want? ")
-		for x in range(int(counter)):
+	while True:
+		if request.method == "POST":
+		#counter = input("how many data points do you want? ")
+		#for x in range(int(counter)):
 			json_dict = request.get_json()
 		
 			#tempAmount = json_dict['temperature']
@@ -57,10 +57,9 @@ def HubReceive():
 			#with open('data.json', 'a') as outfile:
 				#json.dump(data, outfile)
 				#outfile.write('\n')
-		with open('data.json', 'a') as outfile:
-			json.dump(data, outfile)
-			outfile.write('\n')
-			return jsonify(data)
+			with open('data.json', 'w') as outfile:
+				json.dump(data, outfile)
+				return jsonify(data)
 	else:
 
 		return """<html><body>
