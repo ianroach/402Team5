@@ -1,2 +1,2 @@
 import os
-os.system('./pullScript.sh')
+os.system('./pushScript.sh')
