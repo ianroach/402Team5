@@ -34,11 +34,16 @@ def HubReceive():
 				data['data'].append({
 					'light': lightStatus, 
 					'temperature': 'null',
+					'sound': 'null',
+					'humidity': 'null',
 					'pi id': piId, 
 					'team id': teamId, 
 					'Time': currentTime, 
 					'Date': currentDate, 
-					'Measurement': measurement
+					'Light Measurement': measurement,
+					'Temperature measurement': 'null',
+					'Sound Measurement': 'null',
+					'Humidity Measurement': 'null'
 				})			
 
 			if piId == 2:
@@ -46,33 +51,50 @@ def HubReceive():
 				data['data'].append({
 					'light': 'null',
 					'temperature': tempAmount, 
+					'sound': 'null',
+					'humidity': 'null',
 					'pi id': piId, 
 					'team id': teamId, 
 					'Time': currentTime, 
 					'Date': currentDate, 
-					'Measurement': measurement
+					'Light Measurement': 'null',
+					'Temperature measurement': measurement,
+					'Sound Measurement': 'null',
+					'Humidity Measurement': 'null'
 				})	
 		
 			elif piId == 5:
 				humidityAmount = json_dict['humidity']
 				data['data'].append({
 					'humidity': humidityAmount, 
+					'light': 'null',
+					'temperature': 'null', 
+					'sound': 'null',
 					'pi id': piId, 
 					'team id': teamId, 
 					'Time': currentTime, 
 					'Date': currentDate, 
-					'Measurement': measurement
+					'Light Measurement': 'null',
+					'Temperature measurement': 'null',
+					'Sound Measurement': 'null',
+					'Humidity Measurement': measurement
 				})
 
 			elif piId == 3:
 				soundStatus = json_dict['sound']
 				data['data'].append({
-					'sound': soundStatus, 
+					'sound': soundStatus,
+					'humidity': 'null', 
+					'light': 'null',
+					'temperature': 'null', 
 					'pi id': piId, 
 					'team id': teamId, 
 					'Time': currentTime, 
 					'Date': currentDate, 
-					'Measurement': measurement
+					'Light Measurement': 'null',
+					'Temperature measurement': 'null',
+					'Sound Measurement': measurement,
+					'Humidity Measurement': 'null'
 				})
 			
 			print(data)
