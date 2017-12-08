@@ -1,4 +1,4 @@
-import json, datetime
+import json, datetime, subprocess
 
 from flask import Flask, request, jsonify
 
@@ -77,6 +77,7 @@ def HubReceive():
 			
 			with open('data.json', 'w') as outfile:
 				json.dump(data, outfile)
+			
 
 			return jsonify(data)
 	else:
