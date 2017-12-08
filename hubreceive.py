@@ -14,7 +14,7 @@ def HubReceive():
 	
 
 	if request.method == "POST":
-		counter = input("how many data points do you want?")
+		counter = input("how many data points do you want? ")
 		for x in range(int(counter)):
 			json_dict = request.get_json()
 		
