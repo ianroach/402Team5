@@ -401,3 +401,17 @@
 {"sound": false, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
 {"sound": true, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
 {"sound": false, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:34", "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:40", "humidity": 99.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:40", "humidity": 68.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:40", "humidity": 48.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:40", "humidity": 9.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:40", "humidity": 68.0, "Date": "12-04-2017"}
+{"team id": 5, "pi id": 5, "Measurement": "percentage", "Time": "19:40", "humidity": 3.0, "Date": "12-04-2017"}
+{"sound": true, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:40", "Date": "12-04-2017"}
+{"sound": false, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:40", "Date": "12-04-2017"}
+{"sound": true, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:40", "Date": "12-04-2017"}
+{"sound": true, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:40", "Date": "12-04-2017"}
+{"sound": false, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:40", "Date": "12-04-2017"}
+{"sound": false, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:40", "Date": "12-04-2017"}
+{"sound": true, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:40", "Date": "12-04-2017"}
+{"sound": false, "team id": 5, "pi id": 3, "Measurement": "yes or no", "Time": "19:40", "Date": "12-04-2017"}

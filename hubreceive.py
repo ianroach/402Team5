@@ -34,7 +34,7 @@ def HubReceive():
 				lightStatus = json_dict['light']
 				data = {'light': lightStatus, 'pi id': piId, 'team id': teamId, 'Time': currentTime, 'Date': currentDate, 'Measurement': measurement}
 			print(data)
-			with open('data.txt', 'a') as outfile:
+			with open('data.json', 'a') as outfile:
 				json.dump(data, outfile)
 				outfile.write('\n')
 			return jsonify(data)
