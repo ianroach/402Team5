@@ -33,6 +33,7 @@ def HubReceive():
 				lightStatus = json_dict['light']
 				data['data'].append({
 					'light': lightStatus, 
+					'temperature': 'null',
 					'pi id': piId, 
 					'team id': teamId, 
 					'Time': currentTime, 
@@ -43,6 +44,7 @@ def HubReceive():
 			if piId == 2:
 				tempAmount = json_dict['temperature']
 				data['data'].append({
+					'light': 'null',
 					'temperature': tempAmount, 
 					'pi id': piId, 
 					'team id': teamId, 
