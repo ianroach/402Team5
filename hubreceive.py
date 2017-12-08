@@ -102,7 +102,7 @@ def HubReceive():
 			with open('data.json', 'w') as outfile:
 				json.dump(data, outfile)
 			
-			os.system('./pushScript.sh')
+			#os.system('./pushScript.sh')
 
 			return jsonify(data)
 	else:
