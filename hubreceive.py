@@ -97,11 +97,10 @@ def HubReceive():
 					'Humidity Measurement': 'null'
 				})
 			
-			print(data)
-			
 			with open('data.json', 'w') as outfile:
 				json.dump(data, outfile)
 			
+			print("wrote JSON to data.json")
 			#os.system('./pushScript.sh')
 
 			return jsonify(data)

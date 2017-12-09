@@ -13,6 +13,8 @@ now = datetime.datetime.now()
 from time import sleep
 
 piId = int(input("Enter your pi ID: "))
+sendPi = int(input("Enter 1 for chris's pi, enter 2 for Ian's: "))
+
 if piId == 2:
 	print("You will see random temperature between 40 and 70.")
 	greaterThan = 40
@@ -46,7 +48,10 @@ def run_post():
 	rounded_number = round(random.uniform(greaterThan, lessThan), digits)
 	random_bool = random.choice([True, False])
 
-	url = 'http://iansraspberrypi:5000/'
+	if sendPi == 1:
+		url = 'http://104.39.116.104:5000/'
+	elif sendPi  ==2:
+		url = 'http://iansraspberrypi:5000/'
 	
 	if piId == 2:
 		data = {'temperature': rounded_number, 'team id': 5, 'pi id': piId, 
