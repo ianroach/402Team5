@@ -29,6 +29,7 @@ def HubReceive():
 			measurement = json_dict['Measurement']
 			
 
+			#Jiaming's pi
 			if piId == 4:
 				lightStatus = json_dict['light']
 				data['data'].append({
@@ -46,6 +47,7 @@ def HubReceive():
 					'Humidity Measurement': 'null'
 				})			
 
+			#Ian's pi
 			if piId == 2:
 				tempAmount = json_dict['temperature']
 				data['data'].append({
@@ -63,6 +65,7 @@ def HubReceive():
 					'Humidity Measurement': 'null'
 				})	
 		
+			#Adrian's pi
 			elif piId == 5:
 				humidityAmount = json_dict['humidity']
 				data['data'].append({
@@ -80,6 +83,7 @@ def HubReceive():
 					'Humidity Measurement': measurement
 				})
 
+			#Mibin's pi
 			elif piId == 3:
 				soundStatus = json_dict['sound']
 				data['data'].append({
