@@ -18,7 +18,7 @@ sendPi = int(input("Enter 1 for chris's pi, enter 2 for Ian's: "))
 if piId == 2:
 	print("You will see random temperature between 40 and 70.")
 	greaterThan = 40
-	lessThan = 70
+	lessThan = 90
 	digits = 2
 	#greaterThan = float(input("Your number will be greater than: "))
 	#lessThan = float(input("Your number will be less than: "))

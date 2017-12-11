@@ -1,14 +1,26 @@
-import json, datetime, os
+import json, datetime, os, pyodbc, ianEmail
 
 from flask import Flask, request, jsonify
 
 now = datetime.datetime.now()
+
+server = '402team5server.database.windows.net'
+database = '402Team5Database'
+username = 'ianroach'
+password = '!Jrir1662!'
+
+conn = pyodbc.connect('DRIVER=FreeTDS;SERVER='+server+';PORT=1433;DATABASE='+database+';UID='+username+';PWD='+password+';TDS_Version=8.0;')
+test = ianEmail.Email('Temperature Warning!', 'iar5060@psu.edu', 'iar5060@psu.edu.com')
 
 
 app = Flask(__name__)
 @app.route('/', methods=["POST"])
 def HubReceive():
 	
+	#cursor = conn.cursor()
+	#print("Connection to Azure SQL Database Succesful")
+
+
 	with open('data.json') as json_data:
 		data = json.load(json_data)
 	
@@ -45,7 +57,13 @@ def HubReceive():
 					'Temperature measurement': 'null',
 					'Sound Measurement': 'null',
 					'Humidity Measurement': 'null'
-				})			
+				})
+				#conn = pyodbc.connect('DRIVER=FreeTDS;SERVER='+server+';PORT=1433;DATABASE='+database+';UID='+username+';PWD='+password+';TDS_Version=8.0;')
+				#cursor = conn.cursor()
+				#print("Connection to Azure SQL Database Succesful")
+				#cursor.execute("SET IDENTITY_INSERT TeamFive ON")
+				#cursor.execute("insert into TeamFive(DeviceId, TeamId, Light, Measure) values (1, 5, "+str(lightStatus)+", 'Boolean')")	
+				#conn.commit()			
 
 			#Ian's pi
 			if piId == 2:
@@ -63,7 +81,17 @@ def HubReceive():
 					'Temperature measurement': measurement,
 					'Sound Measurement': 'null',
 					'Humidity Measurement': 'null'
-				})	
+				})
+				
+				conn = pyodbc.connect('DRIVER=FreeTDS;SERVER='+server+';PORT=1433;DATABASE='+database+';UID='+username+';PWD='+password+';TDS_Version=8.0;')
+				cursor = conn.cursor()
+				print("Connection to Azure SQL Database Succesful")
+				#cursor.execute("SET IDENTITY_INSERT TeamFive ON")
+				cursor.execute("insert into TeamFive(DeviceId, TeamId, Temperature, Measure) values (1, 5, "+str(tempAmount)+", 'Farenheit')")	
+				conn.commit()
+
+				if tempAmount > 85:
+					test.sendMail()
 		
 			#Adrian's pi
 			elif piId == 5:
@@ -106,6 +134,7 @@ def HubReceive():
 			
 			print("wrote JSON to data.json")
 			#os.system('./pushScript.sh')
+
 
 			return jsonify(data)
 	else:
